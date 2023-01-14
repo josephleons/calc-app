@@ -37,7 +37,6 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="7"
-
             app:backgroundTint="#2196F3"
             app:rippleColor="#8BC34A" />
 
