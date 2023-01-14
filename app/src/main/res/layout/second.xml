@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <TextView-->
+<!--        android:id="@+id/tvSelectedAge"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Get Her Number"-->
+<!--        tools:layout_editor_absoluteX="155dp"-->
+<!--        tools:layout_editor_absoluteY="40dp" />-->
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/tvInput"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="220dp"-->
+    <!--        android:layout_marginTop="10dp"-->
+    <!--        android:text="CALCULATE YOUR AGE"-->
+    <!--        android:textColor="@color/screenColor"-->
+    <!--        android:textSize="48sp" -->
+    <!--        android:maxLength="12"/>-->
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/tvSelectedAge"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="15dp"-->
+    <!--        android:background="@color/backgroundColor"-->
+    <!--        android:padding="10dp"-->
+    <!--        android:text="AGE"-->
+    <!--        android:textColor="@color/TextColor"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textStyle="bold"/>-->
+
+    <!--    <TextView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="15dp"-->
+    <!--        android:text="IN MUNITES"-->
+    <!--        android:textColor="@color/TextColor1"-->
+    <!--        android:textSize="25dp" />-->
+
+    <!--    <Button-->
+    <!--        android:id="@+id/btnDatePicker"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="20dp"-->
+    <!--        android:text="Select date"-->
+    <!--        android:textColor="@color/TextColor"-->
+    <!--        android:textStyle="bold"-->
+    <!--        android:textSize="20dp"/>-->
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/tvSelectedDate"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="20sp"-->
+    <!--        android:textColor="@color/teal_700"-->
+    <!--        android:textSize="25sp" />-->
+
+    <!--    <TextView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="20sp"-->
+    <!--        android:text="Selected Date"-->
+    <!--        android:textColor="@color/TextColor1"-->
+    <!--        android:textSize="25sp"-->
+    <!--        android:textStyle="bold" />-->
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/tvSelectedDateInMinute"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="20sp"-->
+    <!--        android:textColor="@color/teal_700"-->
+    <!--        android:textSize="25sp" />-->
+
+    <!--    <TextView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="20sp"-->
+    <!--        android:text="Age in Munite"-->
+    <!--        android:textColor="@color/TextColor1"-->
+    <!--        android:textSize="25sp"-->
+    <!--        android:textStyle="bold"/>-->
+    <!--    Row 1-->
+
+
+
+
+</RelativeLayout>
